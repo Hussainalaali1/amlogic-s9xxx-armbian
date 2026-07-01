@@ -23,7 +23,7 @@ on:
       armbian_board:
         description: "Select device board."
         required: false
-        default: "s905lb-ipbs9505"
+        default: ""
         type: choice
         options:
           - allwinner
